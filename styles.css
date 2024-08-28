@@ -2,3 +2,14 @@ body {
     color:rgb(146, 146, 169);
     background:black;
 }
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(146, 146, 169);
+}
+
+setion{
+    background:rgb(47 0 29);
+}
