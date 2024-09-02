@@ -1,6 +1,7 @@
 body {
     color:rgb(146, 146, 169);
     background:black;
+    font-family: "Protest Guerrilla", sans-serif;
 }
 
 header{
@@ -10,6 +11,14 @@ header{
     color:rgb(146, 146, 169);
 }
 
-setion{
-    background:rgb(47 0 29);
+section{
+    background:rgb(47, 0,   29);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
 }
